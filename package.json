@@ -5,7 +5,7 @@
     "node": "6.10.0"
   },
   "main": "index.js",
-  "repository": {},
+  "repository": "https://github.com/ygoto3/alexa-app-workspace.git",
   "author": "Yusuke Goto <my.important.apes@gmail.com>",
   "license": "MIT",
   "scripts": {
