@@ -1,0 +1,17 @@
+{
+  "name": "alexa-app-workspace",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.10.0"
+  },
+  "main": "index.js",
+  "repository": {},
+  "author": "Yusuke Goto <my.important.apes@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "alexa-app-server": "https://github.com/ygoto3/alexa-app-server.git#feature/ja-jp"
+  }
+}
